@@ -1,0 +1,23 @@
+div.banner {background-color: #57BAED; border: 1px solid black; padding: 0px; width: 90%; height: 90px;}
+header.header {background-image: }
+div#wrapper {background-color: #FFB155; }
+div.accessibleNB {}
+h1.techRX {position: absolute; left: 70px; z-index: 1;}
+.navbar {background-color: #FF8A19; border: 1px solid black; padding: 0px; width: 90%;}
+.motto {background-color: #FF8A19; border: 1px solid black; padding: 0px; width: 90%;}
+.myComputer {}
+.myInternet {}
+.myCellPhone {}
+.myTablet {}
+.myPrinter {}
+.myCable {}
+.myTV {}
+div.pageBottom {}
+#bottom {}
+body {border: 0px; font-family: Verdana, Geneva, sans-serif;}
+img.leftBanner {float: left;}
+img.rightBanner {float: right;}
+
+
+
+
