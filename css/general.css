@@ -1,22 +1,34 @@
-div.banner {background-color: #57BAED; border: 1px solid black; padding: 0px; width: 90%; height: 90px;}
-header.header {background-image: }
-div#wrapper {background-color: #FFB155; }
-div.accessibleNB {}
-h1.techRX {position: absolute; left: 70px; z-index: 1;}
+
+body {border: 0px; font-family: Verdana, Geneva, sans-serif; background-color: rgb(235,235,235);}
+
+div.banner {background-color: #57BAED; border: 1px solid black; padding: 0px; width: 100%; height: 100px; color: #ffffff;}
+h1.techRX {font-size: 463%; border: 1px solid black; margin: 0px; float: left;}
+h1.techRX:after {
+	content: "Making Tech Help Accessible to All"; display: inline; font-size: 25%;
+}
 .navbar {background-color: #FF8A19; border: 1px solid black; padding: 0px; width: 90%;}
-.motto {background-color: #FF8A19; border: 1px solid black; padding: 0px; width: 90%;}
-.myComputer {}
-.myInternet {}
-.myCellPhone {}
-.myTablet {}
-.myPrinter {}
-.myCable {}
-.myTV {}
+img.leftBanner { float: left; border: 1px solid black; margin-right: 0px;}
+
+
+div#wrapper {background-color: #FFB155; }
+div.accessibleNB {background-color: #FFB155; width: 90%;  }
+
+
+
+.myComputer {border: 1px solid black;}
+.myInternet {border: 1px solid black;}
+.myCellPhone {border: 1px solid black;}
+.myTablet {border: 1px solid black;}
+.myPrinter {border: 1px solid black;}
+.myCable {border: 1px solid black;}
+.myTV {border: 1px solid black;}
+
+
 div.pageBottom {}
 #bottom {}
-body {border: 0px; font-family: Verdana, Geneva, sans-serif;}
-img.leftBanner {float: left;}
-img.rightBanner {float: right;}
+
+
+
 
 
 
