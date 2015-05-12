@@ -1,17 +1,72 @@
 
-body {border: 0px; font-family: Verdana, Geneva, sans-serif; background-color: rgb(235,235,235);}
 
-div.banner {background-color: #57BAED; border: 1px solid black; padding: 0px; width: 100%; height: 100px; color: #ffffff;}
-h1.techRX {font-size: 463%; border: 1px solid black; margin: 0px; float: left;}
-h1.techRX:after {
-	content: "Making Tech Help Accessible to All"; display: inline; font-size: 25%;
+
+
+body {
+	background: #F3EBE9;
+	font-size: 100%;
+	font-family: 'Droid Sans Mono'; 
+	margin-top: 0px;
 }
-.navbar {background-color: #FF8A19; border: 1px solid black; padding: 0px; width: 90%;}
-img.leftBanner { float: left; border: 1px solid black; margin-right: 0px;}
+
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+	background: #fff;
+	padding: 0 45px 20px; 
+}
+
+img[alt="Green Cross"] { 
+	display: inline;
+	margin-left: 20%;
+	margin-top: 10px;
+	max-width: 100%;
+	
+}
+
+
+.wrapper p { 
+font-size: 1em;
+
+
+
+}
+	
+
+
+	* {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+
+
+
+
+h1 {
+	font-family: 'Droid Sans Mono';
+	font-size: 5em;
+	font-weight: normal;
+	border-bottom: 2px solid RGB(52,119,5);
+	
+	margin: 0 0 0px;
+	padding-bottom: 0px;
+	text-shadow: 0 2px 3px #000;
+	float: left;
+	max-width: 50%;
+	
+
+}
+
+.navbar {background-color: #FF8A19; border: 0px solid black; padding: 0px; width: 90%;}
+
+
 
 
 div#wrapper {background-color: #FFB155; }
-div.accessibleNB {background-color: #FFB155; width: 90%;  }
+div.accessibleNB {background-color: #57BAED; width: 100%;  }
 
 
 
@@ -24,10 +79,14 @@ div.accessibleNB {background-color: #FFB155; width: 90%;  }
 .myTV {border: 1px solid black;}
 
 
-div.pageBottom {}
-#bottom {}
 
+#copyRight{
 
+font-size: 0.8em;
+display: block;
+clear: both;
+text-align: right;
+}
 
 
 
