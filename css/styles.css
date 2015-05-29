@@ -85,10 +85,20 @@ h1{
 	font-size: 4.7em;
 	color: #66CCCC;
 	padding-left: 10px;
+	width: 90px;
 	margin: 10px;
 	float: left;
 	text-shadow: 1px 1px 1px #000;
+	background: url(../images/transparentCrossR04.gif) no-repeat left top;
 }
+
+.techRx::first-letter {
+	color: #f60d4f;
+	text-shadow: 1px 1px 1px #000;
+	
+
+}
+
 	
 /**/
 
