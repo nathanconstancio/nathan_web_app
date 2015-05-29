@@ -60,6 +60,8 @@ h1.specialHead {
 	padding: 0.5em;
 	background-color: #fff ;
 	margin: 0 0.5% 0;
+	
+    border-radius: 15px;
 }
 
 .grey {
